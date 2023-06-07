@@ -4,7 +4,10 @@
 
 This project identifies the relationship between bike ownership amongst certain demographics(age group, income, marital status, education etc.) in various regions of the world:
 
-I downloaded the dataset from kaggle. My first step was to 
+I downloaded the dataset from kaggle. the steps undertaken from the beginning to the end of the project are listed below;
+
+
+
 
 Pivot tables to create breakdowns
 Graphing to provide visualizations
