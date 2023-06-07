@@ -1,6 +1,6 @@
 ### Excel-Project
 ## **Bike Owners Dashboard**
-#**Bike ownership around the globe **
+**Bike ownership around the globe**
 <br/> This project identifies the relationship between bike ownership amongst certain demographics(age group, income, marital status, education etc.) in various regions of the world:
 
 I downloaded the dataset from kaggle. My first step was to 
