@@ -1,5 +1,5 @@
-### Excel-Project
-## **Bike Owners Dashboard**
+### Bike Owners Dashboard Excel-Project
+
 **Bike ownership around the globe**
 
 This project identifies the relationship between bike ownership amongst certain demographics(age group, income, marital status, education etc.) in various regions of the world:
